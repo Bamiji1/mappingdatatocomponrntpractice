@@ -1,0 +1,2 @@
+# mappingdatatocomponrntpractice
+Created with CodeSandbox
